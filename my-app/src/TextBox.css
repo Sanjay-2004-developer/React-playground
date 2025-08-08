@@ -1,0 +1,16 @@
+p{
+    color:black;
+    margin: 25px;
+}
+
+body{
+    text-align: center;
+    background-color: #e2dddd;
+}
+
+#my-box {
+  width: 100%;       /* full container width */
+  height: 200px;     /* fixed height in px */
+  font-size: 16px;   /* bigger text */
+  resize: vertical;  /* allow user to stretch vertically */
+}
